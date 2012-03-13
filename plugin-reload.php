@@ -3,7 +3,7 @@
 Plugin Name: Plugin Reload
 Description: Enables you to deactivate+activate a plugin with one click. Mainly for plugin developers.
 Plugin URI:  http://github.com/shadyvb/plugin-reload
-Version:     1.0-dev1
+Version:     1.0-dev2
 Author:      Shady Sharaf
 Author URI:  http://sharaf.me
 */

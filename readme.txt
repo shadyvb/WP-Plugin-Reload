@@ -19,6 +19,9 @@ If you don't know how to use this, then you don't need it :)
 
 == Changelog ==
 
+= 1.0-dev2 =
+Added separator when there is only one action anchor.
+
 = 1.0 =
 Initial version.
 
