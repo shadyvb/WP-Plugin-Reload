@@ -25,3 +25,4 @@ Added separator when there is only one action anchor.
 = 1.0 =
 Initial version.
 
+tst
